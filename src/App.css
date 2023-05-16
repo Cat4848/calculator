@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  color: rgb(0, 0, 0);
+  height: 40px;
+  width: 40px;
+  font-size: large;
+  
+}
+
+.op-btn{
+  background-color: #f4c44a;
+}
+
+.num-btn {
+  background-color: rgb(238, 225, 208);
+}
+
+.display {
+  height: 60px;
+  width: 160px;
+  background-color: antiquewhite;
+  text-align: right;
+}
+
+.result {
+  font-size: 20px;
+  font-weight: bold;
+}
